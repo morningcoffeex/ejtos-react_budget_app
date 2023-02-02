@@ -1,6 +1,10 @@
 .App {
   text-align: center;
 }
+.currency-dropdown {
+  color: #73eca1;
+}
+
 
 .App-logo {
   height: 40vmin;
